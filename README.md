@@ -199,35 +199,6 @@ The vitals-only approach is particularly relevant to **resource-limited healthca
 * Streamlit
 
 
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
-```
-
-Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate it on Windows:
-
-```powershell
-venv\Scripts\activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 
 ## 🔄 Reproducibility
 
