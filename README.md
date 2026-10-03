@@ -10,7 +10,7 @@ The project explores how routinely collected physiological and clinical measurem
 
 ## 👥 Authors
 
-**Atta Ullah**
+**Attaullah**
 Bioinformatics Graduate | Machine Learning & Computational Biology
 
 **Mehak Jabeen**
