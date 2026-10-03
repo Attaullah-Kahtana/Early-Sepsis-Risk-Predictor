@@ -234,5 +234,5 @@ If you are interested in **Bioinformatics, Machine Learning, Computational Biolo
 
 ### 🩺 Early Detection • Machine Learning • Healthcare AI • Sepsis Prediction
 
-**Built by Atta Ullah & Mehak Jabeen**
+**Built by Attaullah & Mehak Jabeen**
 
